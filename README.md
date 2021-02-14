@@ -1,16 +1,22 @@
-### Hi there 👋
+# hiya! i'm adam
 
-<!--
-**hellisabove/hellisabove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me
+I'm a Python developer that loves to mess around with iOS devices!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [C-Ceaser](https://github.com/hellisabove/C-Ceaser/) - A Ceaser cipher made in c++
+- [Rickroll Trojan](https://github.com/hellisabove/) - A Trojan made in batch that does infinite rickrolls in stage 3
+
+### GitHub Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=hellisabove&show_icons=true)](https://github.com/hellisabove/)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hellisabove)](https://github.com/hellisabove/)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellisabove&layout=compact&langs_count=6&hide=assembly)](https://github.com/hellisabove/)
+
+### Contact Information
+- `M1sta#1356` on [Discord](https://discord.com/)
+- [M1staAwesome](https://reddit.com/u/M1staAwesome) on [Reddit](https://reddit.com/)
+- [marijuanARM](https://twitter.com/marijuanARM) on [Twitter](https://twitter.com/)
