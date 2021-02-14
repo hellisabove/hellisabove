@@ -13,7 +13,6 @@ I'm a developer that loves to mess with a lot of stuff
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=hellisabove&show_icons=true)](https://github.com/hellisabove/)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hellisabove)](https://github.com/hellisabove/)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellisabove&layout=compact&langs_count=6&hide=assembly)](https://github.com/hellisabove/)
 
