@@ -9,11 +9,17 @@ I'm a developer that loves to mess with a lot of stuff
 - [Rickroll Trojan](https://github.com/hellisabove/Rickroll-Trojan) - A Trojan made in batch that does infinite rickrolls in stage 3.
 - [WinLocker.py](https://github.com/hellisabove/WinLocker.py) - Py program thar lock your screen unless you input the right code.
 
+## My Development Environment
+
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20/%20%28sadly%29%20%20Windows%20%2011&color=blue&?style=flat&logo=linux)
+
+![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode%20/%20VIM&color=blue&?style=flat&logo=vim)
+
+![Desktop Environment](https://img.shields.io/static/v1?label=WM&message=BSPWM&color=blue&?style=flat&logo=x.org)
+
+![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Waterfox&color=blue&?style=flat&logo=internetexplorer)
+
 ### GitHub Stats
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=hellisabove&show_icons=true)](https://github.com/hellisabove/)
-
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellisabove&layout=compact&langs_count=6&hide=assembly)](https://github.com/hellisabove/)
 
 ### Contact Information
