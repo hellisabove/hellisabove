@@ -11,7 +11,7 @@ I'm a developer that loves to mess with a lot of stuff
 
 ## My Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=macOS&color=blue)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=macOS&color=blue&?style=flat&logo=macos)
 
 ![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode%20/%20VIM&color=blue&?style=flat&logo=vim)
 
