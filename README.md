@@ -6,12 +6,13 @@ I'm a developer that loves to mess with a lot of stuff
 
 ### Projects
 - [C-Ceaser](https://github.com/hellisabove/C-Ceaser/) - A Ceaser cipher made in c++.
-- [Rickroll Trojan](https://github.com/hellisabove/Rickroll-Trojan) - A Trojan made in batch that does infinite rickrolls in stage 3.
 - [WinLocker.py](https://github.com/hellisabove/WinLocker.py) - Py program thar lock your screen unless you input the right code.
+- [WinBan Ransomware](https://github.com/hellisabove/Winban-Ransomware) - A ransomware made in visual basic.
+- [Herocoin](https://github.com/hellisabove/herocoin) - A cryptocurrency based on litecoin
 
 ## My Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=macOS&color=blue&?style=flat&logo=linux)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=macOS%20/%20Linux&color=blue&?style=flat&logo=linux)
 
 ![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode%20/%20VIM&color=blue&?style=flat&logo=vim)
 
