@@ -12,11 +12,11 @@ I'm a developer that loves to mess with a lot of stuff
 
 ## My Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=macOS%20/%20Linux&color=blue&?style=flat&logo=linux)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&?style=flat&logo=linux)
 
 ![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode%20/%20VIM&color=blue&?style=flat&logo=vim)
 
-![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Chromium&color=blue&?style=flat&logo=internetexplorer)
+![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Firefox&color=blue&?style=flat&logo=internetexplorer)
 
 ### GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellisabove&layout=compact&langs_count=6&hide=assembly)](https://github.com/hellisabove/)
