@@ -8,7 +8,6 @@ I'm a developer that loves to mess with a lot of stuff
 - [C-Ceaser](https://github.com/hellisabove/C-Ceaser/) - A Ceaser cipher made in c++.
 - [WinLocker.py](https://github.com/hellisabove/WinLocker.py) - Py program thar lock your screen unless you input the right code.
 - [WinBan Ransomware](https://github.com/hellisabove/Winban-Ransomware) - A ransomware made in visual basic.
-- [Herocoin](https://github.com/hellisabove/herocoin) - A cryptocurrency based on litecoin
 
 ## My Development Environment
 
@@ -20,8 +19,3 @@ I'm a developer that loves to mess with a lot of stuff
 
 ### GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellisabove&layout=compact&langs_count=6&hide=assembly)](https://github.com/hellisabove/)
-
-### Contact Information
-- `HellIsAbove#1425` on [Discord](https://discord.com/)
-- [OutlandishnessSad865](https://reddit.com/u/OutlandishnessSad865) on [Reddit](https://reddit.com/)
-- [HellIsAbove](https://twitter.com/robertnedela15) on [Twitter](https://twitter.com/)
